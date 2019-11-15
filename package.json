@@ -1,7 +1,7 @@
 {
   "name": "mobx-tutorial",
   "version": "1.0.0",
-  "main": "index.jsx",
+  "main": "index.tsx",
   "author": "Yerassyl Zeinolla",
   "license": "MIT",
   "dependencies": {
